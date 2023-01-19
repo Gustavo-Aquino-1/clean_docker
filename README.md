@@ -1,5 +1,5 @@
 
-# Limpando o docker
+# Limpando o docker 🐋
 
 
 Limpando todos os containers e imagens do sistema:
