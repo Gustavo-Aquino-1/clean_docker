@@ -32,7 +32,7 @@ Ativando serviço do mysql:
 service mysql start
 ```
 
-# Possíveis caso de erro ⚠️
+# Possíveis casos de erro ⚠️
 
 ``` "docker stop" requires at least 1 argument``` ➢ quer dizer que não há containers docker em sua maquina!
 
